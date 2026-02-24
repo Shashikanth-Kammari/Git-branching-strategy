@@ -1,0 +1,10 @@
+## 🌿 GitHub Flow Strategy
+
+![GitHub Flow](docs/github-flow.svg)
+
+### Workflow
+1. Create feature branch from `main`
+2. Push changes
+3. Open Pull Request
+4. Review & Merge
+5. CI/CD auto deploys to production
