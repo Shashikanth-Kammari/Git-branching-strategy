@@ -47,7 +47,3 @@ We maintain:
 - `feature/*` – feature branches  
 - `release/*` – pre-release branches (optional)  
 - `hotfix/*` – urgent fixes
-
-## 🚀 DevOps GitHub Flow Strategy
-
-![DevOps Flow](docs/devops-github-flow.svg)
