@@ -34,3 +34,16 @@ feature/update-eks-config
 Example:
 hotfix/fix-security-group
 hotfix/critical-terraform-bug
+
+## 📊 Git Branching Strategy Overview
+
+Below is a visual representation of the Git Flow/GitHub Flow branching model we follow:
+
+![Git Branching Workflow Example](link_to_image)
+
+We maintain:
+- `main` – production-ready code  
+- `develop` – integration branch (for Git Flow)  
+- `feature/*` – feature branches  
+- `release/*` – pre-release branches (optional)  
+- `hotfix/*` – urgent fixes
